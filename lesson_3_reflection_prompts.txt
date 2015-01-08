@@ -6,3 +6,6 @@ No need to pull insignifficant changes, maybe you are not ready to receive chang
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 a branch is in a repository; a clone duplicates a repository; a fork is a clone on github that mentions the repository author...
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+See change log offline, know if additional changes were made remotely since last pull
