@@ -9,3 +9,7 @@ a branch is in a repository; a clone duplicates a repository; a fork is a clone 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 See change log offline, know if additional changes were made remotely since last pull
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Maybe easier in an environment/phisical location where all the developers can communicate directly and the project is structured so that developers work on theit own separate files.
+More difficult when the opposite scenatio is true.
